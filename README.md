@@ -138,9 +138,8 @@
 <br/>
 
 ### 📊 Estatísticas
-
-<p>
 <div style="white-space: nowrap;">
+<p>
   <img 
     alt="GitHub Stats" 
     height="200" 
