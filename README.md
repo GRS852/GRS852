@@ -10,9 +10,13 @@
 
 📌 Sempre aprendendo e inovando
 
-<p>📫 Contato → 
+ <a href="https://github.com/GRS852?tab=repositories" target="_blank" title="LinkedIn">🗂️ Repositorio</a> | 
+
+
+
+<p>📫 Contato:
     <a href="https://www.linkedin.com/in/guilherme-ribeiro-a01676214" target="_blank" title="LinkedIn">LinkedIn</a> | 
-    <a href="mailto:guilherme.ribeiro.souza@hotmail.com" title="Enviar email">guilherme.ribeiro.souza@hotmail.com</a>
+    <a href="mailto:guilherme.ribeiro.souza@hotmail.com" title="Enviar email">Email</a>
 </p>
 
 
