@@ -138,7 +138,6 @@
 <p>
 <div style="white-space: nowrap;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
