@@ -10,7 +10,11 @@
 
 📌 Sempre aprendendo e inovando
 
-📫 Contato → [LinkedIn](www.linkedin.com/in/guilherme-ribeiro-a01676214) | guilherme.ribeiro.souza@hotmail.com
+<p>📫 Contato → 
+    <a href="https://www.linkedin.com/in/guilherme-ribeiro-a01676214" target="_blank" title="LinkedIn">LinkedIn</a> | 
+    <a href="mailto:guilherme.ribeiro.souza@hotmail.com" title="Enviar email">guilherme.ribeiro.souza@hotmail.com</a>
+</p>
+
 
 ---
 
