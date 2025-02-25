@@ -3,10 +3,10 @@
 **`Desenvolvedor FullStack`**
 
 👋 Olá! Eu sou Guilherme Ribeiro <br>
-💡 Apaixonado por tecnologia e resolução de problemas <br>
-🎓 Estudante de Ciência da Computação (conclusão em 2026) <br>
-💻 Desenvolvendo soluções com Python, React e PostgreSQL <br>
-🚀 Experiência em Análise de Dados, Automação Web criação de paginas web
+💡 Apaixonado por tecnologia<br>
+🎓 Estudante de Ciências da Computação (conclusão em 2026) <br>
+💻 Desenvolvedor de soluções com Python, JavaScript e PostgreSQL <br>
+🚀 Experiência em Análise de Dados, Automação e Desenvolvimento web
 
 📌 Sempre aprendendo e inovando
 
